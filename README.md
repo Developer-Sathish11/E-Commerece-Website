@@ -9,19 +9,19 @@ for customers to browse products and manage purchases efficiently.
 
 ## Features :
 
-- User registration and login system
-- Product listing and product details page
-- Add to cart and cart management
-- Search functionality
-- Admin panel for product management
-- Secure logout functionality
+* User registration and login system
+* Product listing and product details page
+* Add to cart and cart management
+* Search functionality
+* Admin panel for product management
+* Secure logout functionality
 
 ## Technologies Used :
 
-- Frontend: HTML, CSS, JavaScript
-- Backend: PHP
-- Database: MySQL
-- Tools: VS Code, GitHub
+* Frontend: HTML, CSS, JavaScript
+* Backend: PHP
+* Database: MySQL
+* Tools: VS Code, GitHub
 
  ## Project Type :
 🎓 College Academic Project
@@ -34,7 +34,7 @@ for customers to browse products and manage purchases efficiently.
 4. Configure database connection in `include` folder
 5. Start Apache and MySQL
 6. Open browser and run:
-   http://localhost/E-Commerce-Website
+   http://10.23.88.233/E-Commerce-Website
 
 ## Folder Structure :
 
