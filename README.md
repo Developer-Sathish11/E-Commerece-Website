@@ -34,7 +34,7 @@ for customers to browse products and manage purchases efficiently.
 4. Configure database connection in `include` folder
 5. Start Apache and MySQL
 6. Open browser and run:
-  http://10.23.88.233/projects/
+http://localhost/projects/
 
 ## Folder Structure :
 
